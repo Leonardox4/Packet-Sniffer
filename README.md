@@ -6,4 +6,6 @@ Root privileges to access raw sockets
 Usage : The target interface can be changed by opening the source code and changing the
 'interface' variable
 
-chmod +x 
+chmod +x PacketSniffer.py
+python3 PacketSniffer.py
+
