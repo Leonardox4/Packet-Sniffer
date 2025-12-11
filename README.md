@@ -4,3 +4,6 @@ Dependencies:
 • Scapy (pip install scapy)
 Root privileges to access raw sockets
 Usage : The target interface can be changed by opening the source code and changing the
+'interface' variable
+
+chmod +x 
